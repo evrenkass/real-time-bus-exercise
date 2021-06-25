@@ -1,4 +1,4 @@
-# Real Time Bus 
+# Real Time Bus Tracker
 
 This projects displays real-time bus location fetching MBTA data in Boston. The panel on the top left side of the page displays bus numbers. Show/hide button shows or hides the buses when clicked and changes colors from green to red. The data is updated every 15 seconds. When a bus is displayed, clicking on it will pop up its number. 
 
